@@ -1,7 +1,7 @@
 # OS-Lab
+By- Aditya (2K22-CO-23)  <br>
 This repository is dedicated to exploring and implementing various scheduling algorithms used in operating systems. 
 
-By- Aditya (2K22-CO-23)
 List of Experiments in OS Lab (Index)--
 
 1. Shortest Job First(SJF)
